@@ -3,9 +3,6 @@
 
 ### List of sellix dealers that i have screened https://github.com/moneywithbots/Sellix-id-verified-script-dealers ###
 
-### THIS FREE SCRIPT IS OFTEN DETECTED FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS DIRECT TO YOUR WALLET NO WAIT https://moneywithbots.sellix.io/ ###
-
-
 
 !!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
 
@@ -36,7 +33,6 @@ Instructions on how to start are below ⬇️
 
           ##########
           
-  ### THIS FREE SCRIPT IS OFTEN DETECTED FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
   
  ### Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths- ###
 
